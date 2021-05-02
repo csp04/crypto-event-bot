@@ -1,1 +1,0 @@
-GET https://coindar.org/api/v2/events?access_token=48732:iIiM2baMwbvYEe2fBIc&filter_coins=1153&page_size=100&page=1
