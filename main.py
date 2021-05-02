@@ -15,13 +15,13 @@
 from datetime import datetime, timedelta
 import os
 import json
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 import discord
 from discord.ext import commands
 
 import requests
 
-load_dotenv()
+# load_dotenv()
 DISCORD_TOKEN = os.getenv('DISCORD_TOKEN')
 COINDAR_TOKEN = os.getenv('COINDAR_TOKEN')
 
